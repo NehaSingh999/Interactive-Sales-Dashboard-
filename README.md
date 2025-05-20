@@ -27,11 +27,6 @@ This project analyzes two months of sales data using Power BI to uncover actiona
 ## 📷 Dashboard Preview
  (https://drive.google.com/file/d/1a59-Sa0AU5MKq2i86NOCEErHFstxiTmX/view?usp=sharing).
 
-## 📂 Folder Structure
-- `Dataset/`: Contains the Excel data file.
-- `PowerBI_Dashboard/`: Contains the .pbix Power BI file.
-- `Screenshots/`: Contains images of the dashboard.
-
 ## ✅ Status
 ✅ Completed – Ready for showcase
 
