@@ -25,7 +25,7 @@ This project analyzes two months of sales data using Power BI to uncover actiona
 - **Microsoft Power Pivot** (for data cleaning and transformation)
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://drive.google.com/file/d/1a59-Sa0AU5MKq2i86NOCEErHFstxiTmX/view?usp=sharing).
+ (https://drive.google.com/file/d/1a59-Sa0AU5MKq2i86NOCEErHFstxiTmX/view?usp=sharing).
 
 ## 📂 Folder Structure
 - `Dataset/`: Contains the Excel data file.
